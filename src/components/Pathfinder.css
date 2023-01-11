@@ -1,0 +1,14 @@
+.Wrapper{
+    max-width: 100%;
+    margin: auto;
+    background-image: linear-gradient(rgba(255, 153, 0, 0.959), rgba(156, 59, 247, 0.5))
+}
+
+.rowWrapper{
+    display: flex;
+}
+
+.buttonBlock{
+    display: inline-block;
+    padding: 1rem 1rem;
+}
